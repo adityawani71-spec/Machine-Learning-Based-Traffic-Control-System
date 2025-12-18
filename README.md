@@ -23,15 +23,15 @@ PROJECT_Final/
 
  
  How to Run the Project
-1️⃣ Interactive Dashboard (Default)
+1) Interactive Dashboard (Default)
 Runs a Streamlit-based interactive dashboard:
 streamlit run C:\Users\adity\OneDrive\Desktop\PROJECT_Final\aditya.py
 
-2️⃣ Quick Demo (Console Mode)
+2️) Quick Demo (Console Mode)
 Runs a quick demo directly in the terminal:
 python C:\Users\adity\OneDrive\Desktop\PROJECT_Final\aditya.py demo
 
-3️⃣ Full Training Mode (Headless)
+3️) Full Training Mode (Headless)
 Runs the complete training process without UI:
 python C:\Users\adity\OneDrive\Desktop\PROJECT_Final\aditya.py train
 
